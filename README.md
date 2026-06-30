@@ -6,7 +6,7 @@ This repository contains the **Admin Side** of the application, which allows the
 
 ---
 
-## 🔑 Features
+##  Features
 
 - **Admin Login** — Secure username/password based login screen for store administrators.
 - **Stock Management** — View and manage current stock levels of grocery items.
@@ -14,19 +14,8 @@ This repository contains the **Admin Side** of the application, which allows the
 - **Previous Orders** — View a history of past orders placed.
 - **Logout** — Securely log out of the admin session.
 
----
 
-## 🖥️ Screenshots
-
-### Login Page
-The admin logs in using their credentials before accessing the dashboard.
-
-### Admin Dashboard
-After logging in, the admin can navigate between **Stock Left**, **Billing**, and **Previous Orders** using the navigation bar.
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **HTML5** — Page structure
 - **CSS3** — Styling and layout (`styles.css`)
@@ -48,7 +37,7 @@ grocery-management/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 Since this is a frontend-only project, no server setup is required.
 
@@ -64,7 +53,7 @@ Since this is a frontend-only project, no server setup is required.
 
 ---
 
-## 📌 Usage
+##  Usage
 
 1. Open the login page and enter admin credentials.
 2. Upon successful login, you will be redirected to the **Admin Dashboard**.
@@ -76,7 +65,7 @@ Since this is a frontend-only project, no server setup is required.
 
 ---
 
-## 📈 Future Enhancements
+## Future Enhancements
 
 - Backend integration with a database (MySQL/MongoDB) for persistent storage
 - Role-based access for multiple admins
